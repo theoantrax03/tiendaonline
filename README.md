@@ -5,7 +5,7 @@ Proyecto académico individual de Mateo Amangano para el Aprendizaje Autónomo 1
 TiendaOnline planifica una tienda de comercio electrónico con dos módulos. **M1 Gestión de Usuarios** cubre el registro y el inicio de sesión. **M2 Catálogo de Productos** cubre la consulta pública, búsqueda y filtros, además de la administración de productos. El carrito, los pedidos, los pagos y los envíos quedan proyectados.
 
 - [Planeación de la Etapa 1](docs/planeacion.pdf)
-- [Guion del video](docs/guion-video.md)
+
 
 ## Ejecutar las pruebas
 
