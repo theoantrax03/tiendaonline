@@ -15,4 +15,4 @@ El código se desarrollará en Go y se trabajará en GoLand. Para aplicar progra
 
 [Muestra el README y la carpeta docs de GitHub.]
 
-El repositorio reúne la planeación y explica el alcance. En el Autónomo 2 comenzará la implementación. Las tareas concretas de los Autónomos 3 y 4 se ajustarán a las consignas del docente, con la meta de completar e integrar el sistema en el cuarto. Gracias.
+El repositorio reúne la planeación y explica el alcance. Con esta planeación quedan definidos los módulos, las reglas y los criterios de aceptación del proyecto. Gracias.
