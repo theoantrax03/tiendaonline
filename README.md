@@ -16,6 +16,6 @@ El carrito, los pedidos, los pagos y los envíos quedan proyectados. El diseño 
 - [Planeación del software en PDF](docs/planeacion.pdf)
 - [Guion del video explicativo](docs/guion-video.md)
 
-## Continuidad
+## Control de versiones
 
-La implementación en Go comienza en el Autónomo 2. Las actividades concretas de los Autónomos 3 y 4 se ajustarán a sus consignas, con la meta de integrar el sistema en el cuarto. La rama main reúne la documentación de esta primera etapa.
+La rama `main` reúne la documentación del Autónomo 1. Los commits registran los cambios de la planeación.
