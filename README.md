@@ -14,7 +14,7 @@ El carrito, los pedidos, los pagos y los envíos quedan proyectados. El diseño 
 ## Documentos de la etapa
 
 - [Planeación del software en PDF](docs/planeacion.pdf)
-- [Guion del video explicativo](docs/guion-video.md)
+  
 
 ## Control de versiones
 
